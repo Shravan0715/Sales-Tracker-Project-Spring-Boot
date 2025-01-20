@@ -89,14 +89,14 @@ project-directory/
 ---
 
 ## 🌐 GitHub Repository
-The full source code for this project is available here: [GitHub Link](#)
+The full source code for this project is available here: [[GitHub Link](https://github.com/Shravan0715)](#)
 
 ---
 
 ## 📞 Contact
 Feel free to reach out for collaboration or queries:
 - **Email**: shravangalagali573@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/shravan-s-galagali-15559a226/
+- **LinkedIn**: [Shravan S. Galagali](https://www.linkedin.com/in/shravan-s-galagali-15559a226/)
 
 ---
 
